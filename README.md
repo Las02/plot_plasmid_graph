@@ -14,8 +14,6 @@ data/vae_clusters_within_radius_with_looners_complete_unsplit_candidate_plasmids
 ## Connecting on ESRUM to jupyter notebook
 jupyter notebook --no-browser --port=9999 --ip=esrumcmpn12fl # <- This need to be the node you are on
 
-
-
 # TODO, main workflow should be rerunable eg. with snakemake 
 
 
