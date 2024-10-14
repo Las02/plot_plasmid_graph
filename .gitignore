@@ -1,0 +1,5 @@
+bin/ncbi-blast-2.16.0+
+data/PLSDB/plsdb.fna
+__pycache__
+filtered.fasta
+/data/
